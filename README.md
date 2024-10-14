@@ -1,2 +1,2 @@
-### This place is an Exploration Field for me to test NLP method in Social Science research
+### This place is an Exploration Field to test NLP method in Social Science research
 
