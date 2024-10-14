@@ -1,5 +1,3 @@
-# DSCI 552 - Machine Learning for Data Science
+This is an interesting task in machine learning.
 
-## HW4
-
-Time Series Classification : Binary and Multiclass Classification
+In this problem, the task is to classify the activities of humans based on time series obtained by a Wireless Sensor Network.
