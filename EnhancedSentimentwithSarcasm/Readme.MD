@@ -1,20 +1,41 @@
 ## 📚 CSCI - Natural Language Processing - A
 
-In this section, I showcase my work from the CSCI NLP course, including assignments and a final project. such as:
+## 📘 Coursework Overview
 
-- **Sarcasm Detection**: Exploring models that attempt to predict sarcasm in text and the limitations posed by nuances in language and culture.
-- **Language Recognition**: Applying machine learning models to identify languages in varied contexts.
+The course included four main assignments, each building on previous work to deepen understanding of NLP techniques.
 
-### Final Project
+### Homework 1: Sentiment Analysis with Classic Machine Learning Models
+This assignment focused on developing a sentiment analysis classifier using Amazon review data. Key steps included:
+- **Data Preparation**: Processed Amazon reviews by creating binary sentiment labels.
+- **Data Cleaning and Preprocessing**: Applied steps such as text cleaning, stop word removal, and lemmatization.
+- **Feature Extraction**: Extracted TF-IDF features from the reviews.
+- **Model Training**: Trained multiple classifiers (Perceptron, SVM, Logistic Regression, Naive Bayes) and evaluated performance with accuracy, precision, recall, and F1-score metrics.
 
-My final project focused on the complexities and potential of using machine learning within NLP. Some of the key questions I investigated included:
+### Homework 2: Word Embeddings and Neural Networks
+Building upon the sentiment analysis task, this assignment introduced Word2Vec embeddings:
+- **Word Embedding Models**: Utilized pre-trained Word2Vec embeddings (Google News) and custom-trained embeddings on the dataset.
+- **Simple Models and Neural Networks**: Applied embeddings in Perceptron, SVM, and feedforward neural networks, comparing performance across different feature types.
+- **Convolutional Neural Networks**: Built a CNN model for sentiment classification, highlighting the effectiveness of deep learning in sentiment analysis tasks.
 
-- **Role of Machine Learning as a Variable**: While machine learning can perform predictions and classifications, in social science, it often serves more effectively as a variable extraction tool. This approach highlights patterns without necessarily providing causal explanations.
-- **Data Accessibility in Computational Social Science**: As I delved into this field, I recognized a vast potential for enhancing data accessibility, improving the integration of NLP techniques with social science research.
+### Homework 3: Part-of-Speech Tagging with Hidden Markov Models
+This assignment introduced sequence tagging using part-of-speech (POS) tagging:
+- **Vocabulary Creation and Model Learning**: Developed vocabulary and trained an HMM model based on emission and transition probabilities.
+- **Decoding Algorithms**: Implemented both Greedy and Viterbi decoding algorithms to predict POS tags and evaluated the model’s accuracy.
 
-### Reflections
+### Homework 4: Named Entity Recognition with Bidirectional LSTM
+The final assignment focused on named entity recognition (NER) with deep learning methods:
+- **BiLSTM Model**: Implemented a bidirectional LSTM network for NER, achieving baseline performance.
+- **Using Pre-trained GloVe Embeddings**: Enhanced the BiLSTM model by initializing embeddings with GloVe vectors, improving precision, recall, and F1-score.
+- **LSTM-CNN Hybrid**: Incorporated a CNN module to capture character-level information, further boosting model performance.
 
-This project prompted me to reflect on the ways that computational methods and social science can work together. My goal is to push beyond standard applications, expanding the scope of machine learning for a deeper understanding of societal questions.
+## 🎓 Final Group Project: Sarcasm Detection
+For the capstone project, the focus was on sarcasm detection in text, exploring the complexities of language and the challenges of modeling sarcasm:
+- **Dataset and Model**: Applied advanced machine learning techniques, experimenting with embeddings and complex neural network architectures.
+- **Reflections**: This project highlighted the potential of NLP for understanding nuanced language and the limitations of machine learning in interpreting context-heavy expressions.
+
+## 💡 Insights and Reflections
+The coursework demonstrated that, while machine learning models are powerful tools for text analysis, their interpretability and utility in social science remain areas of challenge. In computational social science, machine learning often serves as a variable extraction tool, but integrating these models effectively requires improved data accessibility and model transparency.
+
 
 ## 👋 Connect
 
