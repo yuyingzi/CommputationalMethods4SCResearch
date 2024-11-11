@@ -1,8 +1,8 @@
 ## 📚 CSCI - Natural Language Processing - A
 
-## 📘 Coursework Overview
+## 💡 Some Reflections...
+While machine learning models are powerful tools for text analysis, their interpretability and utility in social science remain areas of challenge. In computational social science, machine learning often serves as a variable extraction tool, how can we use this to enhance research 🤔
 
-The course included four main assignments, each building on previous work to deepen understanding of NLP techniques.
 
 ### Homework 1: Sentiment Analysis with Classic Machine Learning Models
 This assignment focused on developing a sentiment analysis classifier using Amazon review data. Key steps included:
@@ -33,8 +33,7 @@ For the capstone project, the focus was on sarcasm detection in text, exploring 
 - **Dataset and Model**: Applied advanced machine learning techniques, experimenting with embeddings and complex neural network architectures.
 - **Reflections**: This project highlighted the potential of NLP for understanding nuanced language and the limitations of machine learning in interpreting context-heavy expressions.
 
-## 💡 Insights and Reflections
-The coursework demonstrated that, while machine learning models are powerful tools for text analysis, their interpretability and utility in social science remain areas of challenge. In computational social science, machine learning often serves as a variable extraction tool, but integrating these models effectively requires improved data accessibility and model transparency.
+
 
 
 ## 👋 Connect
