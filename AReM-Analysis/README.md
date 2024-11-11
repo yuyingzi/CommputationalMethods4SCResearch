@@ -14,5 +14,5 @@ The AReM dataset, available at [UCI Machine Learning Repository](https://archive
 - **Instances**: Each folder contains multiple files representing individual instances of human activity.
 - **Time Series Variables**: Each file contains six time series measurements (`avg_rss12`, `var_rss12`, `avg_rss13`, `var_rss13`, `vg_rss23`, and `ar_rss23`), each capturing 480 consecutive values.
 
-### Some Refelction...
+### Some Reflection...
 While larger datasets can enhance prediction accuracy, this alone may not improve understanding of the complex, underlying social phenomena.
