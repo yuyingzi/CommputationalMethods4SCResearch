@@ -3,7 +3,12 @@
 ## 💡 Some Reflections...
 While machine learning models are powerful tools for text analysis, their interpretability and utility in social science remain areas of challenge. In computational social science, machine learning often serves as a variable extraction tool, how can we use this to enhance research 🤔
 
+## 🎓 Final Group Project: Sarcasm Detection
+For the capstone project, the focus was on sarcasm detection in text, exploring the complexities of language and the challenges of modeling sarcasm:
+- **Dataset and Model**: Applied advanced machine learning techniques, experimenting with embeddings and complex neural network architectures.
+- **Reflections**: This project highlighted the potential of NLP for understanding nuanced language and the limitations of machine learning in interpreting context-heavy expressions.
 
+## Coursework Overview
 ### Homework 1: Sentiment Analysis with Classic Machine Learning Models
 This assignment focused on developing a sentiment analysis classifier using Amazon review data. Key steps included:
 - **Data Preparation**: Processed Amazon reviews by creating binary sentiment labels.
@@ -27,12 +32,6 @@ The final assignment focused on named entity recognition (NER) with deep learnin
 - **BiLSTM Model**: Implemented a bidirectional LSTM network for NER, achieving baseline performance.
 - **Using Pre-trained GloVe Embeddings**: Enhanced the BiLSTM model by initializing embeddings with GloVe vectors, improving precision, recall, and F1-score.
 - **LSTM-CNN Hybrid**: Incorporated a CNN module to capture character-level information, further boosting model performance.
-
-## 🎓 Final Group Project: Sarcasm Detection
-For the capstone project, the focus was on sarcasm detection in text, exploring the complexities of language and the challenges of modeling sarcasm:
-- **Dataset and Model**: Applied advanced machine learning techniques, experimenting with embeddings and complex neural network architectures.
-- **Reflections**: This project highlighted the potential of NLP for understanding nuanced language and the limitations of machine learning in interpreting context-heavy expressions.
-
 
 
 
