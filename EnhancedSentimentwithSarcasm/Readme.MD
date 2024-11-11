@@ -1,6 +1,6 @@
 ## 📚 CSCI - Natural Language Processing - A
 
-In this section, I showcase my work from the CSCI NLP course, including assignments and a final project. This course has deepened my understanding of how machine learning contributes to text analysis tasks, such as:
+In this section, I showcase my work from the CSCI NLP course, including assignments and a final project. such as:
 
 - **Sarcasm Detection**: Exploring models that attempt to predict sarcasm in text and the limitations posed by nuances in language and culture.
 - **Language Recognition**: Applying machine learning models to identify languages in varied contexts.
