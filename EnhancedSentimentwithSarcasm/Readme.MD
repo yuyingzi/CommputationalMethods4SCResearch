@@ -1,4 +1,4 @@
-## 📚 CSCI - Natural Language Processing - A
+## 📚 CSCI - Applied Natural Language Processing (A)
 
 ## 💡 Some Reflections...
 While machine learning models are powerful tools for text analysis, their interpretability and utility in social science remain areas of challenge. In computational social science, machine learning often serves as a variable extraction tool, how can we use this to enhance research 🤔
