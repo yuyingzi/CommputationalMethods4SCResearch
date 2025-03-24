@@ -2,7 +2,6 @@
 
 This repository contains work on classifying human activities based on time series data obtained from a Wireless Sensor Network (WSN). The project leverages the AReM dataset, focusing on feature extraction and machine learning techniques for time series classification. 
 
-An interesting task in the machine learning course DSCI552, I wrap up my homework here. 
 
 ## 📘 Project Overview
 
